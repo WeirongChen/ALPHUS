@@ -7,8 +7,10 @@ Open platform for ultrasound probe stabilizer, using 3D printing.
   <img src="./figs/pic_cor01.jpg" width="350">
 <img src="./figs/pic_cor02.jpg" width="350">
 </p>
-
-<p align="center"><img src="./figs/pic_sag01.jpg" width="350"></p>
+<p align="center">
+  <img src="./figs/pic_sag01.jpg" width="350">
+  <img src="./figs/pic_kid01.jpg" width="350">
+</p>
 
 
 ### COPYRIGHT, LICENSE & DISCLAIMER
