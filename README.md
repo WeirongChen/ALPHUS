@@ -1,6 +1,7 @@
 # Open Ultrasound Probe Stabilizer (OUPS)
 Open platform for ultrasound probe stabilizer, using 3D printing.
-
+<p align="center"><img src="./figs/pic_cor01.jpg" width="350"></p>
+<p align="center"><img src="./figs/pic_cor02.jpg" width="350"></p>
 <p align="center"><img src="./figs/pic_sag01.jpg" width="350"></p>
 
 
