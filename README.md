@@ -1,5 +1,8 @@
 # Open Ultrasound Probe Stabilizer (OUPS)
 Open platform for ultrasound probe stabilizer, using 3D printing.
+- The ‘print_list.txt’ specifies how many pieces you need for each component. 
+- In the ‘clips’ folder, only print the one pair (left and right halves) that matches your ultrasound probe.
+
 <p align="center"><img src="./figs/pic_cor01.jpg" width="350"></p>
 <p align="center"><img src="./figs/pic_cor02.jpg" width="350"></p>
 <p align="center"><img src="./figs/pic_sag01.jpg" width="350"></p>
