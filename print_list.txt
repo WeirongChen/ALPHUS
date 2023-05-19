@@ -1,0 +1,31 @@
+** Print the following components in the specified amounts:
+base x1
+arm x2
+bolt x2
+cap x1
+cheek_adjuster x2
+chin_adjuster x1
+clip_holder x1
+stopper_disc x3
+stopper_stem x3
+ear_base x4
+ear_pegs x4
+nut x2
+rod_hex x1
+rod_L-shape x1
+jaw_flap x2
+jaw_flap_base_L x1
+jaw_flap_base_R x1
+jaw_flap_rod x1
+leg_0 x1
+leg_5 x1
+leg_10 x1
+leg_15 x1
+leg_-5 x1
+leg_-10 x1
+leg_-15 x1
+leg_pin x1
+
+
+
+
