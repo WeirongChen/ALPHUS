@@ -4,6 +4,8 @@ Open platform for ultrasound probe stabilizer, using 3D printing.
 #### The orientation can be transformed between mid-sagittal plane and coronal plane (90 degree perpendicular to sagittal plane) by switching from 'rod_hex' to 'rod_L-shape'.
 - The ‘print_list.txt’ specifies how many pieces you need for each component. 
 - In the ‘clips’ folder, only print the one pair (left and right halves) that matches your ultrasound probe.
+#### To cite:
+Derrick, D., Carignan, C., Chen, W.-R., Shujau, M., & Best, C. T. (2018). Three-dimensional printable ultrasound transducer stabilization system. The Journal of the Acoustical Society of America, 144(5), EL392-EL398. https://doi.org/10.1121/1.5066350 
 
 <p align="center">
   <img src="./figs/pic_cor01.jpg" width="350">
