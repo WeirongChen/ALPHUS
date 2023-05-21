@@ -16,7 +16,7 @@ Derrick, D., Carignan, C., Chen, W.-R., Shujau, M., & Best, C. T. (2018). Three-
   <img src="./figs/pic_kid01.jpg" width="350">
 </p>
 <p align="center">
-  <img src="./figs/2023_OUPS_CAD-fig.jpg" width="550">
+  <img src="./figs/2023_OUPS_CAD-fig.jpg" width="450">
 </p>
 
 ### COPYRIGHT, LICENSE & DISCLAIMER
