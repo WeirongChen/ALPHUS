@@ -1,5 +1,5 @@
 # Open Ultrasound Probe Stabilizer (OUPS)
-Open platform for ultrasound probe stabilizer, using 3D printing.
+Open platform for 3D-printed ultrasound probe stabilizer.
 #### The current design can fit both adult and young children.
 #### The orientation can be transformed between mid-sagittal plane and coronal plane (90 degree perpendicular to sagittal plane) by switching from 'rod_hex' to 'rod_L-shape'.
 - The ‘print_list.txt’ specifies how many pieces you need for each component. 
