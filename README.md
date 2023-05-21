@@ -15,7 +15,9 @@ Derrick, D., Carignan, C., Chen, W.-R., Shujau, M., & Best, C. T. (2018). Three-
   <img src="./figs/pic_sag01.jpg" width="350">
   <img src="./figs/pic_kid01.jpg" width="350">
 </p>
-
+<p align="center">
+  <img src="./figs/2023_OUPS_CAD-fig.jpg" width="550">
+</p>
 
 ### COPYRIGHT, LICENSE & DISCLAIMER
 Copyright (C) 2020 Wei-Rong Chen <wei-rong.chen[AT]yale.edu>  
