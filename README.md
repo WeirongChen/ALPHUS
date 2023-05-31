@@ -1,4 +1,4 @@
-# Open Ultrasound Probe Stabilizer (OpenUpS)
+# Open Ultrasound Probe Stabilizer (OpenUPS)
 Open platform for 3D-printed ultrasound probe stabilizer.
 #### The current design can fit both adult and young children.
 #### The orientation can be transformed between mid-sagittal plane and coronal plane (90 degree perpendicular to sagittal plane) by switching from 'rod_hex' to 'rod_L-shape'.
