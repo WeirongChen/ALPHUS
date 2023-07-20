@@ -20,7 +20,7 @@ Derrick, D., Carignan, C., Chen, W.-R., Shujau, M., & Best, C. T. (2018). Three-
   <img src="./figs/2023_OUPS_CAD-fig.jpg" width="450">
 </p>
 
-### C
+### Assembly video:
 
 https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/assets/25228432/d91f93db-fce2-4633-afd8-40785a352450
 
