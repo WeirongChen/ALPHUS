@@ -20,7 +20,11 @@ Derrick, D., Carignan, C., Chen, W.-R., Shujau, M., & Best, C. T. (2018). Three-
   <img src="./figs/2023_OUPS_CAD-fig.jpg" width="450">
 </p>
 
-### COPYRIGHT, LICENSE & DISCLAIMER
+### C
+
+https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/assets/25228432/d91f93db-fce2-4633-afd8-40785a352450
+
+OPYRIGHT, LICENSE & DISCLAIMER
 Copyright (C) 2020 Wei-Rong Chen <wei-rong.chen[AT]yale.edu>  
 This program is free software under GNU General Public License, version 3.  
 This program is distributed WITHOUT ANY FORM of EXPRESS or IMPLIED WARRANTY and ANY SUPPORT.    
