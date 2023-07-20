@@ -24,6 +24,20 @@ Derrick, D., Carignan, C., Chen, W.-R., Shujau, M., & Best, C. T. (2018). Three-
 
 https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/assets/25228432/d91f93db-fce2-4633-afd8-40785a352450
 
+
+# Mid-sagittal plane:
+<p align="left">
+<img src="https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/blob/main/figs/Probe-assembly-sagittal.jpg" width="350">
+</p>
+
+# Coronal plane:
+<p align="left">
+<img src="https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/blob/main/figs/Probe-assembly-coronal.jpg" width="350">
+</p>
+
+
+
+
 OPYRIGHT, LICENSE & DISCLAIMER
 Copyright (C) 2020 Wei-Rong Chen <wei-rong.chen[AT]yale.edu>  
 This program is free software under GNU General Public License, version 3.  
