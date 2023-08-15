@@ -23,7 +23,7 @@ Derrick, D., Carignan, C., Chen, W.-R., Shujau, M., & Best, C. T. (2018). Three-
 ### Assembly video:
 
 https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/assets/25228432/d91f93db-fce2-4633-afd8-40785a352450
-
+https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/blob/main/figs/MM01_dissemble.mp4
 
 ## Configurations
 ###  for sagittal tongue imaging:
