@@ -25,12 +25,13 @@ Derrick, D., Carignan, C., Chen, W.-R., Shujau, M., & Best, C. T. (2018). Three-
 https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/assets/25228432/d91f93db-fce2-4633-afd8-40785a352450
 
 
-# Mid-sagittal plane:
+## Configurations
+###  for sagittal tongue imaging:
 <p align="left">
 <img src="https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/blob/main/figs/Probe-assembly-sagittal.jpg" width="350">
 </p>
 
-# Coronal plane:
+### for coronal tongue imaging:
 <p align="left">
 <img src="https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/blob/main/figs/Probe-assembly-coronal.jpg" width="350">
 </p>
