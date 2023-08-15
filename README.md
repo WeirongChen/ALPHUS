@@ -36,7 +36,8 @@ https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/assets/25228432/
 <img src="https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/blob/main/figs/Probe-assembly-coronal.jpg" width="350">
 </p>
 
-https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/blob/main/figs/MM01_dissemble.mp4
+<img src="./figs/MM01_dissemble.mp4" width="350">
+<!-- https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/blob/main/figs/MM01_dissemble.mp4 -->
 
 
 OPYRIGHT, LICENSE & DISCLAIMER
