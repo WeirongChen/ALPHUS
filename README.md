@@ -28,12 +28,12 @@ https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/assets/25228432/
 ## Configurations
 ###  for sagittal tongue imaging:
 <p align="left">
-<img src="https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/blob/main/figs/Probe-assembly-sagittal.jpg" width="350">
+<img src="./figs/Probe-assembly-sagittal.jpg" width="350">
 </p>
 
 ### for coronal tongue imaging:
 <p align="left">
-<img src="https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/blob/main/figs/Probe-assembly-coronal.jpg" width="350">
+<img src="./figs/Probe-assembly-coronal.jpg" width="350">
 </p>
 
 <img src="./figs/MM01_dissemble.mp4" width="350">
