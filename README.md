@@ -40,7 +40,7 @@ https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/assets/25228432/
 <!-- https://github.com/WeirongChen/Open_Ultrasound_Probe_Stabilizer/blob/main/figs/MM01_dissemble.mp4 -->
 
 
-OPYRIGHT, LICENSE & DISCLAIMER
+COPYRIGHT, LICENSE & DISCLAIMER
 Copyright (C) 2020 Wei-Rong Chen <wei-rong.chen[AT]yale.edu>  
 This program is free software under GNU General Public License, version 3.  
 This program is distributed WITHOUT ANY FORM of EXPRESS or IMPLIED WARRANTY and ANY SUPPORT.    
