@@ -1,7 +1,7 @@
 ** Print the following components in the specified amounts:
 base x1
 arm x2
-bolt x2
+bolt x5
 cap x1
 cheek_adjuster x2
 chin_adjuster x1
