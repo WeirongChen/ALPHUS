@@ -5,8 +5,8 @@ Open platform for 3D-printed ultrasound probe stabilizer.
 - The ‘print_list.txt’ specifies how many pieces you need for each component. 
 - In the ‘clips’ folder, only print the one pair (left and right halves) that matches your ultrasound probe.
 
-#### The current design evolved from our previously published paper:
-Derrick, D., Carignan, C., Chen, W.-R., Shujau, M., & Best, C. T. (2018). Three-dimensional printable ultrasound transducer stabilization system. The Journal of the Acoustical Society of America, 144(5), EL392-EL398. https://doi.org/10.1121/1.5066350 
+#### To cite ALPHUS:
+Chen, W.-R., Stern, M. C., Whalen, D. H., Derrick, D., Carignan, C., Best, C. T., & Tiede, M. (2024). Assessing ultrasound probe stabilization for quantifying speech production contrasts using the Adjustable Laboratory Probe Holder for UltraSound (ALPHUS). Journal of Phonetics, 105, 101339. https://doi.org/10.1016/j.wocn.2024.101339 
 
 <p align="center">
   <img src="./figs/pic_cor01.jpg" width="350">
