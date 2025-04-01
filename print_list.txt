@@ -16,7 +16,7 @@ rod_L-shape x1
 jaw_flap x2
 jaw_flap_base_L x1
 jaw_flap_base_R x1
-jaw_flap_rod x1
+jaw_flap_rod x2
 leg_0 x1
 leg_5 x1
 leg_10 x1
